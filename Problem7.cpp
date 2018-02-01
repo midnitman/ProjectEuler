@@ -71,3 +71,6 @@ int main(){
     cout<<nthprime(n)<<endl;
     return 0;
 }
+//project euler problem 7
+//to calculate the nth prime
+//verified till 50000th prime
